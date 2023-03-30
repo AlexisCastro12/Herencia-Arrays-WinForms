@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WFHerenciaMat1.Form1" Collapsed="true">
+    <Position X="13.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>A0AIAIAAAHAIYBwAgAGAABISkgAAIAOiEyAABEBAAAU=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WFHerenciaMat1.MatA">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAAAAAAAA=</HashCode>
+      <FileName>MatA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WFHerenciaMat1.MatB" Collapsed="true">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAASAAAAAAAAAAAAAAAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>MatB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WFHerenciaMat1.MayorA" Collapsed="true">
+    <Position X="12" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>MayorA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WFHerenciaMat1.MultipAB" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MultipAB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WFHerenciaMat1.Program" Collapsed="true">
+    <Position X="16.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WFHerenciaMat1.RestaAB" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RestaAB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WFHerenciaMat1.SumaAB" Collapsed="true">
+    <Position X="9.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SumaAB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WFHerenciaMat1.SumaDiagB" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SumaDiagB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WFHerenciaMat1.SumaElem" Collapsed="true">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>SumaElem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WFHerenciaMat1.Properties.Resources" Collapsed="true">
+    <Position X="14" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAACAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WFHerenciaMat1.Properties.Settings" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

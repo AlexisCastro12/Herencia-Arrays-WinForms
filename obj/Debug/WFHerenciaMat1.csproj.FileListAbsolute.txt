@@ -1,0 +1,31 @@
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\WFHerenciaMat1\bin\Debug\WFHerenciaMat1.exe.config
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\WFHerenciaMat1\bin\Debug\WFHerenciaMat1.exe
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\WFHerenciaMat1\bin\Debug\WFHerenciaMat1.pdb
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\WFHerenciaMat1\obj\Debug\WFHerenciaMat1.csprojAssemblyReference.cache
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\WFHerenciaMat1\obj\Debug\WFHerenciaMat1.Form1.resources
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\WFHerenciaMat1\obj\Debug\WFHerenciaMat1.Properties.Resources.resources
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\WFHerenciaMat1\obj\Debug\WFHerenciaMat1.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\WFHerenciaMat1\obj\Debug\WFHerenciaMat1.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\WFHerenciaMat1\obj\Debug\WFHerenciaMat1.exe
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\WFHerenciaMat1\obj\Debug\WFHerenciaMat1.pdb
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\RESPALDO WF HERENCIA MATRICES\WFHerenciaMat2\bin\Debug\WFHerenciaMat1.exe.config
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\RESPALDO WF HERENCIA MATRICES\WFHerenciaMat2\bin\Debug\WFHerenciaMat1.exe
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\RESPALDO WF HERENCIA MATRICES\WFHerenciaMat2\bin\Debug\WFHerenciaMat1.pdb
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\RESPALDO WF HERENCIA MATRICES\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.csprojAssemblyReference.cache
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\RESPALDO WF HERENCIA MATRICES\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.Form1.resources
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\RESPALDO WF HERENCIA MATRICES\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.Properties.Resources.resources
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\RESPALDO WF HERENCIA MATRICES\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\RESPALDO WF HERENCIA MATRICES\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\RESPALDO WF HERENCIA MATRICES\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.exe
+C:\Users\alexi\OneDrive\Documentos\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 3\PRACTICAS\RESPALDO WF HERENCIA MATRICES\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.pdb
+C:\Users\Usuario\Documents\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 2\WFHerenciaMat2\bin\Debug\WFHerenciaMat1.exe.config
+C:\Users\Usuario\Documents\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 2\WFHerenciaMat2\bin\Debug\WFHerenciaMat1.exe
+C:\Users\Usuario\Documents\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 2\WFHerenciaMat2\bin\Debug\WFHerenciaMat1.pdb
+C:\Users\Usuario\Documents\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 2\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 2\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 2\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.Form1.resources
+C:\Users\Usuario\Documents\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 2\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.Properties.Resources.resources
+C:\Users\Usuario\Documents\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 2\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 2\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 2\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.exe
+C:\Users\Usuario\Documents\8vo Semestre\INGENIERIA DE SOFTWARE\PARCIAL 2\WFHerenciaMat2\obj\Debug\WFHerenciaMat1.pdb
